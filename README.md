@@ -5,6 +5,12 @@
 This project showcases an interactive Power BI dashboard analyzing the business performance of Plant Co. across different metrics, including Gross Profit, Quantity, and Sales.
 The dashboard enables stakeholders to monitor performance Year-to-Date (YTD) compared with Prior Year-to-Date (PYTD), offering insights into profitability, quantity trends, and sales distribution.
 
+## 📊 Dashboard View
+![image alt](https://github.com/DilrukshiManjula07/Performance_Report_Power_BI/blob/5a41db5c0731cc4a224ef7bd5e17e0fcc66a43db/sales(%2B).jpg)
+
+
+![image alt](https://github.com/DilrukshiManjula07/Performance_Report_Power_BI/blob/f7adf1277e777c97877d14e26fda7ce967a790cd/qtd(-).jpg)
+
 ## 🔹 Key Features
 
   ### Gross Profit Analysis
@@ -25,9 +31,4 @@ The dashboard enables stakeholders to monitor performance Year-to-Date (YTD) com
 ## 🔹 Tools & Skills Demonstrated
     * Power BI (data modeling, DAX calculations, interactive visuals)
     * Data Visualization (tree maps, waterfall charts, scatter plots, line & bar charts)
-
-## 📊 Dashboard View
-![image alt](https://github.com/DilrukshiManjula07/Performance_Report_Power_BI/blob/5a41db5c0731cc4a224ef7bd5e17e0fcc66a43db/sales(%2B).jpg)
-
-![image alt](https://github.com/DilrukshiManjula07/Performance_Report_Power_BI/blob/f7adf1277e777c97877d14e26fda7ce967a790cd/qtd(-).jpg)
 
