@@ -22,11 +22,11 @@ The dashboard enables stakeholders to monitor performance Year-to-Date (YTD) com
     * Scatter plot analysis of accounts by Gross Profit % (GP%) and Value YTD
     * Segmentation to identify high-profit vs low-profit accounts
     
-## 📊 Tools & Skills Demonstrated
+## 🔹 Tools & Skills Demonstrated
     * Power BI (data modeling, DAX calculations, interactive visuals)
     * Data Visualization (tree maps, waterfall charts, scatter plots, line & bar charts)
 
-## Dashboard View
+## 📊 Dashboard View
 ![image alt](https://github.com/DilrukshiManjula07/Performance_Report_Power_BI/blob/5a41db5c0731cc4a224ef7bd5e17e0fcc66a43db/sales(%2B).jpg)
 
 ![image alt](https://github.com/DilrukshiManjula07/Performance_Report_Power_BI/blob/f7adf1277e777c97877d14e26fda7ce967a790cd/qtd(-).jpg)
